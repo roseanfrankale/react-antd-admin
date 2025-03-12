@@ -1,87 +1,66 @@
-English | [简体中文](./README.zh_CN.md)
+# Learning React with a Cloned Repository
 
-<h1 align="center">React Antd Admin</h1>
+This repository was cloned to facilitate learning React, Ant Design, TypeScript, and other relevant technologies.
 
-<div align="center">
+## Purpose
 
-The best practices for React Hooks and Typescript.
+The primary goal of this repository is to provide a hands-on learning environment for:
 
-<a href="https://github.com/facebook/react">
-  <img src="https://img.shields.io/badge/react-17.0.0-brightgreen" alt="React">
-</a>
-<a href="https://github.com/ant-design/ant-design">
-  <img src="https://img.shields.io/badge/ant--design-5.2.0-brightgreen" alt="ant-design">
-</a>
-<a href="https://github.com/microsoft/TypeScript" rel="nofollow">
-  <img src="https://img.shields.io/badge/typescript-4.3.2-brightgreen" alt="Typescript">
-</a>
-<a href="https://github.com/reduxjs/redux" rel="nofollow">
-  <img src="https://img.shields.io/badge/@reduxjs/toolkit-1.4.0-brightgreen" alt="Redux">
-</a>
-<a href="https://github.com/WinmezzZ/react-antd-admin/blob/master/LICENSE">
-  <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
-</a>
+* React development
+* Ant Design component library
+* TypeScript implementation
+* State management with Redux (if applicable)
+* Routing with React Router (if applicable)
 
-</div>
+## Original Credits
 
-- Preview: https://react-admin.winme.dev
-- Documentation: https://react-admin.winme.dev/documentation
+This repository is based on the [Original Repository Name] repository created by [Original Creator(s) Name/Username(s)].
 
-## ✨ Features
+[Link to the Original Repository]
 
-- 💡 **TypeScript**: A language for application-scale JavaScript
-- 📜 **Blocks**: Build page with block template
-- 💎 **Hooks**: Use react hooks API instead of traditional class API
-- 📐 **Common Templates**: Typical templates for enterprise applications
-- 🚀 **State of The Art Development**: Newest development stack of React/hooks/Redux/antd/typescript
-- 📱 **Responsive**: Designed for variable screen sizes
-- 🎨 **Theming**: Dynamically switch system theme
-- 🌐 **International**: Built-in i18n solution
-- ⚙️ **Best Practices**: Solid workflow to make your code healthy
-- 🔢 **Mock development**: Easy to use mock development solution
-- ✅ **Usage**: No barriers to use with complete documentation and detailed comments
+We appreciate the original creators for providing a valuable foundation for learning.
 
-## 📦 Install
+## Modifications
 
-```bash
-$ git clone https://github.com/WinmezzZ/react-antd-admin.git
-$ cd react-antd-admin
+* Removed the Chinese language support to focus on core learning objectives.
+* [Add any other modifications that you've made]
 
-# npm
-$ npm install
-$ npm start
+## Getting Started
 
-# yarn
-$ yarn install
-$ yarn start
-```
+1.  **Clone the repository:**
 
-## 🔨 Build
+    ```bash
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    ```
 
-```bash
-# npm
-$ npm install
-$ npm run build
+2.  **Install dependencies:**
 
-# yarn
-$ yarn install
-$ yarn start
-```
+    ```bash
+    npm install
+    ```
 
-This project default deploy on root site, if you want to deploy on a child site, you need to set the public path. In the `.env` file at the root of this project, add `PUBLIC_URL=YOUR_CHILD_PATH`.
+    or
 
-## 🖥 Browsers support
+    ```bash
+    yarn install
+    ```
 
-Modern browsers and Internet Explorer 10+.
+3.  **Run the application:**
 
-| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" alt="Opera" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Opera | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/electron/electron_48x48.png" alt="Electron" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Electron |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| IE11, Edge                                                                                                                                                                                                      | last 2 versions                                                                                                                                                                                                   | last 2 versions                                                                                                                                                                                               | last 2 versions                                                                                                                                                                                               | last 2 versions                                                                                                                                                                                           | last 2 versions                                                                                                                                                                                                       |
+    ```bash
+    npm start
+    ```
 
-## 🤝 Contributing
+    or
 
-We very much welcome your contribution, you can build together with us in the following ways 😃
+    ```bash
+    yarn start
+    ```
 
-- Use Ant Design Pro in your daily work.
-- Submit [GitHub issues](https://github.com/WinmezzZ/react-antd-admin/issues) to report bugs or ask questions.
-- Propose [Pull Request](https://github.com/WinmezzZ/react-antd-admin/pulls) to improve our code.
+## Contributing
+
+This repository is primarily for personal learning. Contributions are not expected.
+
+## License
+
+[Add the license of the original repo, if applicable]
