@@ -9,8 +9,8 @@ The primary goal of this repository is to provide a hands-on learning environmen
 * ⚛️ React development
 * 🐜 Ant Design component library
 * 📝 TypeScript implementation
-* 📊 State management with Redux (if applicable)
-* 🛣️ Routing with React Router (if applicable)
+* 📊 State management with Redux 
+* 🛣️ Routing with React Router
 
 ## Original Credits
 
