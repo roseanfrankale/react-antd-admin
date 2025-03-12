@@ -6,31 +6,24 @@ This repository was cloned to facilitate learning React, Ant Design, TypeScript,
 
 The primary goal of this repository is to provide a hands-on learning environment for:
 
-* React development
-* Ant Design component library
-* TypeScript implementation
-* State management with Redux (if applicable)
-* Routing with React Router (if applicable)
+* ⚛️ React development
+* 🐜 Ant Design component library
+* 📝 TypeScript implementation
+* 📊 State management with Redux (if applicable)
+* 🛣️ Routing with React Router (if applicable)
 
 ## Original Credits
 
-This repository is based on the [Original Repository Name] repository created by [Original Creator(s) Name/Username(s)].
+This repository is based on the [react-antd-admin](https://github.com/WinmezzZ/react-antd-admin) repository created by [WinmezzZ](https://github.com/WinmezzZ).
 
-[Link to the Original Repository]
-
-We appreciate the original creators for providing a valuable foundation for learning.
-
-## Modifications
-
-* Removed the Chinese language support to focus on core learning objectives.
-* [Add any other modifications that you've made]
+I appreciate the original creators for providing a valuable foundation for learning.
 
 ## Getting Started
 
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/roseanfrankale/your-repo-name.git](https://github.com/roseanfrankale/your-repo-name.git)
     ```
 
 2.  **Install dependencies:**
@@ -63,4 +56,4 @@ This repository is primarily for personal learning. Contributions are not expect
 
 ## License
 
-[Add the license of the original repo, if applicable]
+Based on the information available, the original repository `react-antd-admin` does not explicitly include a license file. 
